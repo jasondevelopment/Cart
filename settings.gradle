@@ -1,0 +1,3 @@
+rootProject.name = "CartMaven"
+include ':app'
+include ':maven_test'
